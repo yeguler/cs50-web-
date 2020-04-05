@@ -1,0 +1,33 @@
+body {
+	padding-left: 5%;
+	padding-top: 2%;
+	padding-right: 5%;
+	padding-bottom: 2%: 
+}
+
+h1 {
+	text-align: center;
+}
+
+#email {
+	text-align: center;
+}
+
+.schoolbBadge {
+
+	float: left;
+	width: 100px;
+	padding: 20px;
+	
+}
+
+.row > div {
+    padding: 20px;
+    border: 2px solid black;
+}
+
+@media screen and (min-width: 900px) {
+	body {
+		background-color: #c8dbfa;
+	}
+}
